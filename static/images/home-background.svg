@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Web_1920_1">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Web_1920_1" data-name="Web 1920 – 1" clip-path="url(#clip-Web_1920_1)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="background" fill="#090e29" stroke="#707070" stroke-width="1">
+      <rect width="1920" height="1080" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1919" height="1079" fill="none"/>
+    </g>
+    <path id="Polygon_8" data-name="Polygon 8" d="M225,0,450,450H0Z" transform="matrix(0.998, -0.07, 0.07, 0.998, 1583.853, -173.757)" fill="#f9a2bd"/>
+    <path id="Polygon_7" data-name="Polygon 7" d="M298.5,0,597,773H0Z" transform="matrix(0.174, -0.985, 0.985, 0.174, -44.877, 1212.151)" fill="#31326f" opacity="0.74"/>
+    <path id="Polygon_5" data-name="Polygon 5" d="M298.5,0,597,890H0Z" transform="matrix(-0.174, 0.985, -0.985, -0.174, 2049.526, 768.998)" fill="#31326f" opacity="0.74"/>
+    <path id="Polygon_1" data-name="Polygon 1" d="M225,0,450,450H0Z" transform="matrix(0.891, 0.454, -0.454, 0.891, 1732.671, 584.376)" fill="#f9a2bd"/>
+    <path id="Polygon_2" data-name="Polygon 2" d="M225,0,450,450H0Z" transform="translate(1470 647)" fill="#f9a2bd" opacity="0.805"/>
+    <path id="Polygon_3" data-name="Polygon 3" d="M225,0,450,450H0Z" transform="translate(225.385 1231.952) rotate(-163)" fill="#f9a2bd" opacity="0.805"/>
+    <path id="Polygon_4" data-name="Polygon 4" d="M225,0,450,450H0Z" transform="matrix(0.891, 0.454, -0.454, 0.891, 102.671, 614.376)" fill="#f9a2bd"/>
+    <path id="Polygon_6" data-name="Polygon 6" d="M298.5,0,597,596H0Z" transform="translate(483.145 1243.644) rotate(-79)" fill="#31326f" opacity="0.998"/>
+    <path id="Polygon_9" data-name="Polygon 9" d="M225,0,450,564H0Z" transform="matrix(0.375, -0.927, 0.927, 0.375, 1419.097, 183.33)" fill="#f9a2bd" opacity="0.628"/>
+    <path id="Polygon_10" data-name="Polygon 10" d="M225,0,450,450H0Z" transform="translate(133.865 463.605) rotate(-146)" fill="#f9a2bd"/>
+    <path id="Polygon_11" data-name="Polygon 11" d="M225,0,450,564H0Z" transform="translate(483.539 283.65) rotate(150)" fill="#f9a2bd" opacity="0.628"/>
+  </g>
+</svg>
