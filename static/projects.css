@@ -1,0 +1,61 @@
+#intro_text {
+    font-family: Quicksand;
+    color: #B3B6F0;
+    margin-top: auto;
+    margin-bottom: auto;
+
+}
+
+
+.bg-custom {
+    background-color: #F9A2BD;
+    color: white;
+    padding-top: 10px;
+
+}
+
+
+.dark-text {
+    color: #090E29;
+    font-weight: bold;
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+}
+
+#name {
+    font-weight: normal;
+}
+#personal_about {
+    font-family: Quicksand;
+    padding-bottom: 10px;
+
+}
+
+body, html {
+    height: 100%;
+    font-family: Quicksand;
+    background-color: #090E29;
+
+
+}
+
+.bg {
+    /* The image used */
+    background-image: url("images/home-background.svg");
+
+    /* Full height */
+    height: 100%;
+
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navbar-custom {
+    background-color: #B3B6F0;
+}
