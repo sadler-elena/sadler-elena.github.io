@@ -24,7 +24,6 @@
       <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/projects.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/projects.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +63,8 @@
       <option name="presentableId" value="Default" />
       <updated>1606341555592</updated>
       <workItem from="1606341557904" duration="9310000" />
-      <workItem from="1606451072550" duration="1425000" />
+      <workItem from="1606451072550" duration="1519000" />
+      <workItem from="1606710206355" duration="43000" />
     </task>
     <servers />
   </component>
